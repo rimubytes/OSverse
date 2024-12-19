@@ -47,17 +47,16 @@
 
 - unforgiving environment: quirky h/m, hard to debug
 - many design tensions:
-    - efficient vs abstract/portable/general-purpose
-    - powerful vs simple interfaces
-    - flexible vs secure
+  - efficient vs abstract/portable/general-purpose
+  - powerful vs simple interfaces
+  - flexible vs secure
 - features interact: 'fd = open(); fork()'
 - uses are varied: laptops, smart-phones, cloud, virtual machines, embedded
 - evolving hardware: NVRAM, multi-core, fast networks
 
-### For people that...
+### For people that
 
 - care about what goes on under the hood
 - like infrastructure
 - need to track down bugs or security problems
 - care about high performance
-
